@@ -1,14 +1,48 @@
+body{
+    background-color: #000000;
+}
+
 h1{
+    padding-top: 5%;
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
+    color: white;
+}
+
+p{
+    color: white;
 }
 
 .container{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     width: 80%;
 }
 
 .cor{
-    background-color: rgb(252, 255, 59);
+    background-color: #ffffff;
+}
+
+.espacamento {
+    width: 99%;
+}
+
+.imagemmenor{
+    width: 100%;
+}
+
+.card-text{
+    color: black;
+}
+
+.col-md-6 {
+    background-color: #000000;
+    border: 1px solid #ffb300;
+    padding: 3%;
+}
+
+footer{
+
+    margin-bottom: 5%;
+
 }
